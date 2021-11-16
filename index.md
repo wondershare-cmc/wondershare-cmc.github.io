@@ -46,3 +46,13 @@ Workaround I did: Subclassed QMainWindow and set attribute Qt::WA_Mapped manuall
 
 #### 参考资料
 [QT 禁止通过 任务栏的“关闭窗口”来关闭程序](https://blog.csdn.net/hellokandy/article/details/115346854)
+
+
+### 2021-11-16 周二
+### Resharp的快捷键Ctrl+t没有生效的原因，没有配置ShortCut-Schem
+![image](https://user-images.githubusercontent.com/94329757/141891860-1f2eec9e-193a-4f8b-b0d2-5067a2c4bf06.png)
+
+
+
+
+
