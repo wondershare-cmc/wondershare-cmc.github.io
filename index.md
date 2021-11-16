@@ -32,8 +32,11 @@ Workaround I did: Subclassed QMainWindow and set attribute Qt::WA_Mapped manuall
 
 #### 参考资料
 [Qt实现系统托盘](https://blog.csdn.net/u011417605/article/details/51322997)
+
 [Qt下窗口最小化到托盘](https://www.geek-share.com/detail/2557485470.html)
+
 [Qt实现app界面程序出现卡着不动的解决](https://blog.csdn.net/huangyifei_1111/article/details/80194221)
+
 [Qt界面最小化后再次show出现界面冻结的问题](https://stackoverflow.com/questions/14554903/widgets-freezing-after-minimise-window)
 
 ### 2021-11-15 周一 
