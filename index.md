@@ -49,7 +49,7 @@ Workaround I did: Subclassed QMainWindow and set attribute Qt::WA_Mapped manuall
 
 
 ### 2021-11-16 周二
-### Resharp的快捷键Ctrl+t没有生效的原因，没有配置ShortCut-Schem
+### VS中的Resharp的快捷键Ctrl+t没有生效的原因，没有配置Keyboard scheme选中Visual Studio
 ![image](https://user-images.githubusercontent.com/94329757/141891860-1f2eec9e-193a-4f8b-b0d2-5067a2c4bf06.png)
 
 
