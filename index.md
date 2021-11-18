@@ -63,6 +63,7 @@ Workaround I did: Subclassed QMainWindow and set attribute Qt::WA_Mapped manuall
 ### 2021-11-17 周三
 #### moveToThread实现多线程
 * 创建QObject派生类对象不能带有父类
+
 [moveToThead的使用](https://www.cnblogs.com/lcgbk/p/13950284.html)
 
 
