@@ -1,5 +1,12 @@
 ## 欢迎来到我的个人空间
 
+### 2022年2月12日 星期六
+#### 智能指针shared_ptr的用法
+
+#### 参考资料
+[智能指针shared_ptr的用法](https://www.cnblogs.com/jiayayao/p/6128877.html)
+
+
 ### lambda表达式
 ```c++
 // 指明返回类型
