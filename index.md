@@ -8,8 +8,11 @@
 
 #### 参考资料
 [in10 程序管理员权限读写文件和界面无法拖入的情况解决](https://blog.csdn.net/baochunlei1/article/details/114673285)
+
 [Win7系统应用程序不能拖放文件原来又是UAC是惹的祸](https://cloud.tencent.com/developer/article/1341577)
+
 [降权或升权启动应用](https://blog.csdn.net/zy1031393630/article/details/93485345z)
+
 [Inno Setup以管理员身份运行提取的批处理文件](https://qa.1r1g.com/sf/ask/1150084631/)
 
 #### Qt QSetting 生成*.ini.lock和*.ini.shn126阻塞程序的问题
