@@ -1,6 +1,16 @@
 ## 欢迎来到我的个人空间
 
 ### 2022年4月7日
+#### 当用户以管理员权限安装或者打开剪辑软件后，不能直接拖放文件到剪辑软件
+* 设置管理员权限之后，打开程序时需要以管理员权限打开程序。但是却无法拖入文件到程序界面，因为管理员权限打开的程序权限级别比较高，拖入的文件权限比较低，无法将低权限的文件拖入到高权限的程序界面。
+
+
+
+#### 参考资料
+[in10 程序管理员权限读写文件和界面无法拖入的情况解决](https://blog.csdn.net/baochunlei1/article/details/114673285)
+[Win7系统应用程序不能拖放文件原来又是UAC是惹的祸](https://cloud.tencent.com/developer/article/1341577)
+[降权或升权启动应用](https://blog.csdn.net/zy1031393630/article/details/93485345z)
+[Inno Setup以管理员身份运行提取的批处理文件](https://qa.1r1g.com/sf/ask/1150084631/)
 
 #### Qt QSetting 生成*.ini.lock和*.ini.shn126阻塞程序的问题
 > QSetting打开的是test.ini文件，突然程序退出。容易生成test.ini.lock 和 test.ini.shn126文件。当下次程序运行打开test.ini文件时候，会阻塞在此。
