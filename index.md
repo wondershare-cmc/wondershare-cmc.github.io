@@ -1,6 +1,20 @@
 ## 欢迎来到我的个人空间
 
 ### 2022年4月7日
+
+#### Qt QSetting 生成*.ini.lock和*.ini.shn126阻塞程序的问题
+> QSetting打开的是test.ini文件，突然程序退出。容易生成test.ini.lock 和 test.ini.shn126文件。当下次程序运行打开test.ini文件时候，会阻塞在此。
+* 解决软件退出，数据没有保存到磁盘中的问题
+* 解决启动的时候，发现文件被锁了，阻塞等待freeze的问题。
+
+- https://bbs.huaweicloud.com/blogs/232433
+- 可重入函数对于线程安全的意义（附函数表）
+- https://www.jianshu.com/p/11b33ec3a476
+- https://blog.51cto.com/u_15326983/3332849
+
+processExplore工具，文件状态访问过程的监控
+- https://blog.csdn.net/qq_18218335/article/details/103481061
+
 #### NULL对象指针调用成员函数时是否一定会崩溃？
 答案是不一定
 
